@@ -194,4 +194,4 @@ for(i in 1:113){
 ```
 
 **Answer**:  
-When $K=75,87,88$, it seems to perform the best on this data set.
+When $K=74,86,87$, it seems to perform the best on this data set.
